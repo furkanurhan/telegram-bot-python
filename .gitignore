@@ -1,0 +1,33 @@
+# Python bytecode dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment dizinleri
+venv/
+env/
+ENV/
+.venv/
+
+# IDE ve editör yapılandırmaları
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Diğer geçici dosyalar
+*.tmp
+*.bak
+*.swp
+*.swo
